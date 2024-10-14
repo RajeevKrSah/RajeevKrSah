@@ -1,4 +1,14 @@
-## Hi there 👋
+# Hi there! 👋 I'm Rajeev Kumar, a MERN Stack Developer
+
+## 🚀 About Me
+
+I am a passionate **programmer** with a self-learning attitude and a deep interest in **problem-solving** and **web application development**. My primary focus is on **C++** and **JavaScript**, but I'm always exploring new technologies and frameworks to expand my skillset.
+- 🔭 I’m currently working on **E-commerce Project**.
+- 🌱 Currently learning **DSA** and **Next.js**.
+- 👨‍💻 Open to exciting **job opportunities** and freelance projects.
+- 💬 Ask me about **JavaScript**, **React**, **Web Development**, and anything tech-related.
+- ⚡ Fun fact: I'm a big fan of **random programming quotes** and GitHub stats!.
+
 
 <!--
 **RajeevKrSah/RajeevKrSah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
